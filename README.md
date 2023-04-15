@@ -1,0 +1,2 @@
+# LATESERPENT
+Internal homelab topology
